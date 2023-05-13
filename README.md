@@ -1,4 +1,4 @@
-Hello! I am Durgesh!, I'm an passionate and dedicated software professional with two years of experience in Quality Assurance at Perficient, where I have honed my skills in Java and Selenium. Driven by a passion for development, I have expanded my expertise by learning the MERN stack (MongoDB, Express, React, and Node.js) to make a seamless transition into the software development field.
+Hello! I am Durgesh!, I'm an passionate and dedicated software professional with two years of experience in Quality Assurance, where I have honed my skills in Java and Selenium. Driven by a passion for development, I have expanded my expertise by learning the MERN stack (MongoDB, Express, React, and Node.js) to make a seamless transition into the software development field.
  
 📚 Languages & Technologies
 
